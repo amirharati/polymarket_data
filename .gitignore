@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.venv
+.env
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Data Output Directories (These contain potentially large amounts of derived data)
+market_data/
+event_details/
+market_details/
+
+# Output TSV file (derived data)
+polymarket_data.tsv
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*~ 
