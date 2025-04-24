@@ -98,7 +98,7 @@ This project contains Python scripts to download historical market, event, and p
 
 ## Notes
 
-1. During exploration we can see about 36k has non-empty time series but not all time series are valid many only have 0.5 so need sone clean up.
+1. During exploration we can see about 36k has non-empty time series but not all time series are valid many only have 0.5 so need some clean up.
 2. It seems many fields including categories are useless or empty. We can fill some of these using LLMs or other techniques.
 
 ## TODOs
