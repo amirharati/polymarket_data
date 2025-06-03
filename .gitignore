@@ -34,3 +34,5 @@ polymarket_data.tsv
 .vscode/
 *.swp
 *~ 
+# SpecStory explanation file
+.specstory/.what-is-this.md
